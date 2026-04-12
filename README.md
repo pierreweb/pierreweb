@@ -6,7 +6,7 @@
 - 📫 How to reach me ...https://darksalmon-jellyfish-454090.hostingersite.com/
 - 📫 How to reach me ...https://edu-platform-ai-studio.vercel.app/
 
-- - 📫 How to reach me(old) ...http://lociciel3d.canalblog.com/
+- 📫 How to reach me(old) ...http://lociciel3d.canalblog.com/
 
 <!---
 pierreweb/pierreweb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
